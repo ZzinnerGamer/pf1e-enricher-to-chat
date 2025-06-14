@@ -1,7 +1,7 @@
 {
   "id": "pf1e-enricher-to-chat",
   "title": "PF1e Enricher to Chat",
-  "version": "0.0.1",
+  "version": "1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
