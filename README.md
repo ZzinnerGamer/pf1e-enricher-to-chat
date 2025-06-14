@@ -1,6 +1,6 @@
 # PF1 Enricher to Chat
 
-A micro-module for Foundry VTT (not tested on v12) in the **Pathfinder 1e** system that allows to send to chat the original syntax of any Enricher with a simple right click. Thus, players and Master can reuse skills, saves and other Enriched prompts directly from the chat window, without the need to expose Journals content or manually type the commands.
+A micro-module for Foundry VTT (not tested on v12, but probably it will work just right) in the **Pathfinder 1e** system that allows to send to chat the original syntax of any Enricher with a simple right click. Thus, players and Master can reuse skills, saves and other Enriched prompts directly from the chat window, without the need to expose Journals content or manually type the commands.
 
 ## Features.
 
