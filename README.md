@@ -20,6 +20,12 @@ A micro-module for Foundry VTT (not tested on v12, but probably it will work jus
 3. You will see that, automatically, its original markup is published in the chat tab.
 4. Both you and your players will be able to click on it and launch the associated action/shoot.
 
+   
+
+https://github.com/user-attachments/assets/e260c99c-817a-40e7-94d3-a942c03d110f
+
+
+
 ---
 
 You're done! Now you can send rich prompts to the chat in a single gesture, without complications or duplicate tags.
