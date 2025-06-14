@@ -16,7 +16,7 @@ A micro-module for Foundry VTT (not tested on v12) in the **Pathfinder 1e** syst
 ## Usage
 
 1. Open any PF1e rich text (Chat, Journal, Object Description...).
-2. Right-click** on the rich link you want to share.
+2. **Right-click** on the rich link you want to share.
 3. You will see that, automatically, its original markup is published in the chat tab.
 4. Both you and your players will be able to click on it and launch the associated action/shoot.
 
