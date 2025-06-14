@@ -11,9 +11,10 @@ A micro-module for Foundry VTT (not tested on v12) in the **Pathfinder 1e** syst
 
 ## Installation
 
-1. Clone or download this repository into your modules folder:
-2. In Foundry configuration, enable **PF1 Enricher Sender**.
-3. Reload the page or restart the game.
+1. Clone or download this repository into your modules folder or use Foundry's installation:
+   https://raw.githubusercontent.com/ZzinnerGamer/pf1e-enricher-to-chat/main/module.json
+3. In Foundry configuration, enable **PF1 Enricher Sender**.
+4. Reload the page or restart the game.
 
 ## Usage
 
