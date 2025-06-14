@@ -5,8 +5,6 @@ A micro-module for Foundry VTT (not tested on v12) in the **Pathfinder 1e** syst
 ## Features.
 
 - 📤 **Right click on an Enricher** (`@Skill[...]`, `@Save[...]`, `@Ability[...]`, etc.) to send it to the chat.
-- ⚙️ **Lightweight and without external dependencies**, compatible with Foundry VTT v13 and PF1e.
-- 🔧 **Easy to extend**: add new `handlers` in `reconstructMarkup()` to cover other types of rich links.
 
 ## Installation
 
