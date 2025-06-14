@@ -1,31 +1,26 @@
-# PF1 Enricher to Chat
+PF1 Enricher to Chat
 
-A micro-module for Foundry VTT (not tested on v12, but probably it will work just right) in the **Pathfinder 1e** system that allows to send to chat the original syntax of any Enricher with a simple right click. Thus, players and Master can reuse skills, saves and other Enriched prompts directly from the chat window, without the need to expose Journals content or manually type the commands.
+A micro-module for Foundry VTT (not tested on v12, but probably it will work just right) in the Pathfinder 1e system that allows to send to chat the original syntax of any Enricher with a simple right click. Thus, players and Master can reuse skills, saves and other Enriched prompts directly from the chat window, without the need to expose Journals content or manually type the commands.
 
-## Features.
+Features.
 
-- 📤 **Right click on an Enricher** (`@Skill[...]`, `@Save[...]`, `@Ability[...]`, etc.) to send it to the chat.
+- 📤 Right click on an Enricher (`@Skill[...]`, `@Save[...]`, `@Ability[...]`, etc.) to send it to the chat.
 
-## Installation
+Installation
 
 1. Clone or download this repository into your modules folder or use Foundry's module section:
-   https://raw.githubusercontent.com/ZzinnerGamer/pf1e-enricher-to-chat/main/module.json
-3. In Foundry configuration, enable **PF1 Enricher to Chat**.
-4. Reload the page or restart the game.
+   https://raw.githubusercontent.com/ZzinnerGamer/pf1e-enricher-to-chat/main/module.json
+2. In Foundry configuration, enable PF1 Enricher to Chat.
+3. Reload the page or restart the game.
 
-## Usage
-
+Usage
 1. Open any PF1e rich text (Chat, Journal, Object Description...).
-2. **Right-click** on the rich link you want to share.
+2. Right-click on the rich link you want to share.
 3. You will see that, automatically, its original markup is published in the chat tab.
-4. Both you and your players will be able to click on it and launch the associated action/shoot.
-
-   
+4. Both you and your players will be able to click on it and launch the associated action/shoot.   
 
 https://github.com/user-attachments/assets/e260c99c-817a-40e7-94d3-a942c03d110f
 
-
-
 ---
 
-You're done! Now you can send rich prompts to the chat in a single gesture, without complications or duplicate tags.
+You're done! Now you can send rich prompts to the chat in a single gesture, without complications or duplicate tags or macros or whatever.
