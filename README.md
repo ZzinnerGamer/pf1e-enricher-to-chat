@@ -9,7 +9,7 @@ Features.
 Installation
 
 1. Clone or download this repository into your modules folder or use Foundry's module section:
-https://github.com/ZzinnerGamer/pf1e-enricher-to-chat/releases/latest/module.json
+https://github.com/ZzinnerGamer/pf1e-enricher-to-chat/releases/download/1/module.json
 2. In Foundry configuration, enable PF1 Enricher to Chat.
 3. Reload the page or restart the game.
 
