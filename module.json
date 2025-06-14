@@ -1,6 +1,6 @@
 {
-  "id": "pf1e-enricher-injector",
-  "title": "PF1e Enricher Injector",
+  "id": "pf1e-enricher-to-chat",
+  "title": "PF1e Enricher to Chat",
   "version": "0.0.1",
   "compatibility": {
     "minimum": "13",
