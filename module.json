@@ -8,5 +8,7 @@
   },
   "scripts": [
     "scripts/enricher-injector.js"
-  ]
+  ],
+  "manifest": "https://raw.githubusercontent.com/ZzinnerGamer/pf1e-enricher-to-chat/main/module.json",
+  "download": "https://github.com/ZzinnerGamer/pf1e-enricher-to-chat/archive/refs/heads/main.zip"
 }
