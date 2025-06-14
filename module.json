@@ -1,0 +1,12 @@
+{
+  "id": "pf1e-enricher-injector",
+  "title": "PF1e Enricher Injector",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "scripts": [
+    "scripts/enricher-injector.js"
+  ]
+}
